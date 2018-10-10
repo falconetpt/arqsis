@@ -1,0 +1,14 @@
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/obj/Debug/netcoreapp2.1/Arqsis.csprojAssemblyReference.cache
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/obj/Debug/netcoreapp2.1/Arqsis.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/obj/Debug/netcoreapp2.1/Arqsis.RazorAssemblyInfo.cache
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/obj/Debug/netcoreapp2.1/Arqsis.RazorAssemblyInfo.cs
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/obj/Debug/netcoreapp2.1/Arqsis.AssemblyInfoInputs.cache
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/obj/Debug/netcoreapp2.1/Arqsis.AssemblyInfo.cs
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/bin/Debug/netcoreapp2.1/Arqsis.deps.json
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/bin/Debug/netcoreapp2.1/Arqsis.runtimeconfig.json
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/bin/Debug/netcoreapp2.1/Arqsis.runtimeconfig.dev.json
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/bin/Debug/netcoreapp2.1/Arqsis.dll
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/bin/Debug/netcoreapp2.1/Arqsis.pdb
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/obj/Debug/netcoreapp2.1/Arqsis.RazorTargetAssemblyInfo.cache
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/obj/Debug/netcoreapp2.1/Arqsis.dll
+/Users/user/Desktop/3ano/ARQSIS/trabalho/arqsi/Arqsis/obj/Debug/netcoreapp2.1/Arqsis.pdb
